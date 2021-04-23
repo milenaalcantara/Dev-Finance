@@ -245,7 +245,7 @@ td.espense {
 
 /* Form ============ */
 #form {
-    max-width: 500px;
+    max-width: 400px;
 }
 
 #form h2 {
@@ -265,7 +265,8 @@ td.espense {
     margin-top: 0.8rem;
 }
 
-.input-group small{
+.input-group .help{
+    font-size: x-small;
     opacity: 0.4;
 }
 
